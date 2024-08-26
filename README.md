@@ -1,4 +1,7 @@
-# Project 2: Titanic SQL Analysis (SQL)
+# Project 2: Titanic SQL Analysis
+## Skill: SQL
+## Difficulty: ★☆☆☆☆
+
 
 ### Dataset:
 Titanic Dataset
