@@ -1,4 +1,4 @@
-# Project 1: Titanic SQL Analysis
+# Project 2: Titanic SQL Analysis
 ## Skill: SQL
 ## Difficulty: ★☆☆☆☆
 
